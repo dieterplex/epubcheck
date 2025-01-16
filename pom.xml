@@ -11,12 +11,12 @@
 
     <groupId>org.w3c</groupId>
     <artifactId>epubcheck</artifactId>
-    <version>5.2.0</version>
+    <version>5.2.2-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 
     <name>EPUBCheck :: the EPUB conformance checker</name>
-    <description>PUBCheck is the official conformance checker for EPUB publications. EPUBCheck can be run as a standalone command-line tool or used
+    <description>EPUBCheck is the official conformance checker for EPUB publications. EPUBCheck can be run as a standalone command-line tool or used
       as a Java library.</description>
     <url>https://github.com/w3c/epubcheck</url>
     <inceptionYear>2007</inceptionYear>
@@ -56,7 +56,7 @@
         <connection>scm:git:ssh://git@github.com:w3c/epubcheck.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:w3c/epubcheckgit</developerConnection>
         <url>https://github.com/w3c/epubcheck</url>
-        <tag>v5.2.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <issueManagement>
         <system>Github</system>
